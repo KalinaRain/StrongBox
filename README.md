@@ -1,4 +1,4 @@
-ProtectionBox
+StrongBox
 =============
 
 It is a strongbox which people use it to protect his privicy and choose which he need to encrypt.
